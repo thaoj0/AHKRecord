@@ -7,4 +7,4 @@ RecordToExcel.py is Python2 script that will create a Gui that will covert the t
 <br>
 <br>
 Record.ahk can be run by using Record.exe.<br>
-RecordToExcel.py can be run by using Run.bat.
+RecordToExcel.py can be run by using Run.bat (RecordToExcel.py must be in the same file).
