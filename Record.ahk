@@ -271,9 +271,9 @@ LoadFile(){
 Autolog(){
     run, %AutoLogLocation%
     sleep, 10000
-    send, 01{enter}
+    send, user{enter}
     sleep, 5000
-    send, 1132Thao{enter}
+    send, password{enter}
     sleep, 2000
     ExitFunc()
     return
