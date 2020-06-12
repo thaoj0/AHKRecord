@@ -10,6 +10,7 @@ Record.ahk can be run by using Record.exe.<br>
 RecordToExcel.py can be run by using Run.bat (RecordToExcel.py must be in the same file).
 <br>
 <br>
+<br>
 AutoHotKey Features:
 <ul>
   <li>Singleton Design Pattern</li>
@@ -19,7 +20,6 @@ AutoHotKey Features:
   <li>File Pathing System</li>
   <li>Auto-login System</li>
 </ul>
-<br>
 <br>
 Python Features:
 <ul>
