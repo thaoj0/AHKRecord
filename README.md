@@ -16,7 +16,7 @@ AutoHotKey Features:
   <li>Singleton Design Pattern</li>
   <li>Auto Update Input Values</li>
   <li>Input Data Serialization</li>
-  <li>Embedded NoSQL Database System</li>
+  <li>NoSQL Database System</li>
   <li>File Pathing System</li>
   <li>Auto-login System</li>
 </ul>
